@@ -1,4 +1,4 @@
-# Tutorial 37: Enterprise Compliance & Policy Navigator
+# POLICY-NAVIGATOR : A CAPSTONE PROJECT
 
 **Using Google ADK with Gemini File Search API for Native RAG**
 
