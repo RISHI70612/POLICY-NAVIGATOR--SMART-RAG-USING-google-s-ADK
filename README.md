@@ -436,12 +436,6 @@ create_audit_trail(
 ✅ Metadata tags for data classification  
 ✅ Role-based store organization  
 
-## 📝 Documentation
-
-- **[Architecture Guide](docs/architecture.md)** - Detailed system design
-- **[ROI Calculator](docs/roi_calculator.md)** - Business case analysis
-- **[Deployment Guide](docs/deployment_guide.md)** - Production deployment
-
 ## 🤝 Contributing
 
 Issues and contributions welcome!
