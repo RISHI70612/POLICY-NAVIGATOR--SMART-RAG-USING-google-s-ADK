@@ -8,7 +8,7 @@
 
 ## 🎯 Overview
 
-This tutorial implements a **production-ready multi-agent system** for managing, searching, and analyzing company policies using **Google's Gemini File Search API** for native Retrieval Augmented Generation (RAG).
+This project implements a **production-ready multi-agent system** for managing, searching, and analyzing company policies using **Google's Gemini File Search API** for native Retrieval Augmented Generation (RAG).
 
 *
 
@@ -20,7 +20,6 @@ This tutorial implements a **production-ready multi-agent system** for managing,
 - **90%+ faster** policy access (5 minutes → 30 seconds for automated queries)
 - **Audit-ready** with built-in citation tracking and compliance trails
 
-_Note: This is a production-starter foundation. Add retry logic, monitoring, and rate limiting for full production deployment._
 
 ### Key Features
 
@@ -455,20 +454,6 @@ Issues and contributions welcome!
 
 Licensed under Apache License 2.0 - see LICENSE file
 
-
-## 🚀 Next Steps
-
-1. ✅ Complete quick start above
-2. **Read the full tutorial**: [Tutorial 37 Documentation](https://github.com/raphaelmansuy/adk_training/tree/main/docs/docs/37_file_search_policy_navigator.md)
-3. Run demos to see all features
-4. Adapt sample policies to your organization
-5. Deploy to production (see deployment guide)
-
-7. Monitor usage and iterate
-
-## 📞 Support
-
-- **Issues**: GitHub Issues
 - **Discussions**: GitHub Discussions
 - **Training**: ADK Training Project Documentation
 
